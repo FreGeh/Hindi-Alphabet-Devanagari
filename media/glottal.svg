@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="112" viewBox="0 0 128 112" role="img" aria-label="Stimmlippen im Kehlkopf">
+<title>Glottal</title>
+<path d="M 22,51 C 16,48 14,38 18,31 C 18,13 49,10 72,13 C 97,15 112,28 115,51 L 117,99" fill="none" stroke="#82909E" stroke-width="2.7" stroke-linecap="round"/>
+<path d="M 22,51 C 26,40 38,34 50,32 C 66,28 81,32 91,39 C 96,43 103,50 105,61" fill="none" stroke="#738495" stroke-width="3.6" stroke-linecap="round"/>
+<path d="M 25,69 C 41,81 62,82 87,78 C 100,76 107,80 111,93" fill="none" stroke="#A4AFB9" stroke-width="2.8" stroke-linecap="round"/>
+<path d="M 24 49 L 30 46 L 33 50 L 29 54" fill="#F4F7F9" stroke="#738495" stroke-width="1.6"/>
+<path d="M 28,69 C 46,64 67,65 84,68 C 96,70 101,66 104,62" fill="none" stroke="#DD776B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="111" cy="87" r="7.1" fill="#EA8F49" opacity=".30"/><circle cx="111" cy="87" r="3.4" fill="#CC593F"/><path d="M109 73 L112 80 M112 89 L115 97" stroke="#DF6D49" stroke-width="3" stroke-linecap="round"/>
+</svg>

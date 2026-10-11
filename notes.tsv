@@ -1,4 +1,66 @@
-id	subdeck_id	Front	Back
-1	1	What is the capital of France?	Paris.
-2	2	What color is this square? <img src="blue.png" alt="A colored square">	Blue.
-3	_	What do you hear? [sound:tone.wav]	A short tone.
+id	subdeck_id	Devanagari	IPA	Audio	Category	Category Image	Explanation
+1760110000001	1791732407084	अ	ə	[sound:IU_Hindi_U0905.wav]	Vowel		
+1760110000002	1791732407084	आ	aː	[sound:IU_Hindi_U0906.wav]	Vowel		
+1760110000003	1791732407084	इ	ɪ	[sound:IU_Hindi_U0907.wav]	Vowel		
+1760110000004	1791732407084	ई	iː	[sound:IU_Hindi_U0908.wav]	Vowel		
+1760110000005	1791732407084	उ	ʊ	[sound:IU_Hindi_U0909.wav]	Vowel		
+1760110000006	1791732407084	ऊ	uː	[sound:IU_Hindi_U090A.wav]	Vowel		
+1760110000007	1791732407084	ए	eː	[sound:IU_Hindi_U090F.wav]	Vowel		
+1760110000008	1791732407084	ऐ	ɛː	[sound:UT_Hindi_U0910.wav]	Vowel		
+1760110000009	1791732407084	ओ	oː	[sound:IU_Hindi_U0913.wav]	Vowel		
+1760110000010	1791732407084	औ	ɔː	[sound:UT_Hindi_U0914.wav]	Vowel		
+1760110000011	1791732407084	ऋ	rɪ	[sound:UT_Hindi_U090B.wav]	Vowel		
+1760110000012	1791732407085	क	kə	[sound:IU_Hindi_U0915.wav]	Velar	<img src="velar.svg" width="86" alt="Velar">	
+1760110000013	1791732407085	ख	kʰə	[sound:IU_Hindi_U0916.wav]	Velar	<img src="velar.svg" width="86" alt="Velar">	
+1760110000014	1791732407085	ग	ɡə	[sound:IU_Hindi_U0917.wav]	Velar	<img src="velar.svg" width="86" alt="Velar">	
+1760110000015	1791732407085	घ	ɡʱə	[sound:IU_Hindi_U0918.wav]	Velar	<img src="velar.svg" width="86" alt="Velar">	
+1760110000016	1791732407085	ङ	ŋə	[sound:IU_Hindi_U0919.wav]	Velar	<img src="velar.svg" width="86" alt="Velar">	
+1760110000017	1791732407085	च	t͡ʃə	[sound:IU_Hindi_U091A.wav]	Postalveolar / Palatal	<img src="postalveolar.svg" width="86" alt="Postalveolar / Palatal">	
+1760110000018	1791732407085	छ	t͡ʃʰə	[sound:IU_Hindi_U091B.wav]	Postalveolar / Palatal	<img src="postalveolar.svg" width="86" alt="Postalveolar / Palatal">	
+1760110000019	1791732407085	ज	d͡ʒə	[sound:IU_Hindi_U091C.wav]	Postalveolar / Palatal	<img src="postalveolar.svg" width="86" alt="Postalveolar / Palatal">	
+1760110000020	1791732407085	झ	d͡ʒʱə	[sound:IU_Hindi_U091D.wav]	Postalveolar / Palatal	<img src="postalveolar.svg" width="86" alt="Postalveolar / Palatal">	
+1760110000021	1791732407085	ञ	ɲə	[sound:IU_Hindi_U091E.wav]	Palatal	<img src="palatal.svg" width="86" alt="Palatal">	
+1760110000022	1791732407085	ट	ʈə	[sound:IU_Hindi_U091F.wav]	Retroflex	<img src="retroflex.svg" width="86" alt="Retroflex">	
+1760110000023	1791732407085	ठ	ʈʰə	[sound:IU_Hindi_U0920.wav]	Retroflex	<img src="retroflex.svg" width="86" alt="Retroflex">	
+1760110000024	1791732407085	ड	ɖə	[sound:IU_Hindi_U0921.wav]	Retroflex	<img src="retroflex.svg" width="86" alt="Retroflex">	
+1760110000025	1791732407085	ढ	ɖʱə	[sound:IU_Hindi_U0922.wav]	Retroflex	<img src="retroflex.svg" width="86" alt="Retroflex">	
+1760110000026	1791732407085	ण	ɳə	[sound:IU_Hindi_U0923.wav]	Retroflex	<img src="retroflex.svg" width="86" alt="Retroflex">	
+1760110000027	1791732407085	त	t̪ə	[sound:IU_Hindi_U0924.wav]	Dental	<img src="dental.svg" width="86" alt="Dental">	
+1760110000028	1791732407085	थ	t̪ʰə	[sound:IU_Hindi_U0925.wav]	Dental	<img src="dental.svg" width="86" alt="Dental">	
+1760110000029	1791732407085	द	d̪ə	[sound:IU_Hindi_U0926.wav]	Dental	<img src="dental.svg" width="86" alt="Dental">	
+1760110000030	1791732407085	ध	d̪ʱə	[sound:IU_Hindi_U0927.wav]	Dental	<img src="dental.svg" width="86" alt="Dental">	
+1760110000031	1791732407085	न	n̪ə	[sound:IU_Hindi_U0928.wav]	Dental	<img src="dental.svg" width="86" alt="Dental">	
+1760110000032	1791732407085	प	pə	[sound:IU_Hindi_U092A.wav]	Bilabial	<img src="bilabial.svg" width="86" alt="Bilabial">	
+1760110000033	1791732407085	फ	pʰə	[sound:IU_Hindi_U092B.wav]	Bilabial	<img src="bilabial.svg" width="86" alt="Bilabial">	
+1760110000034	1791732407085	ब	bə	[sound:IU_Hindi_U092C.wav]	Bilabial	<img src="bilabial.svg" width="86" alt="Bilabial">	
+1760110000035	1791732407085	भ	bʱə	[sound:IU_Hindi_U092D.wav]	Bilabial	<img src="bilabial.svg" width="86" alt="Bilabial">	
+1760110000036	1791732407085	म	mə	[sound:IU_Hindi_U092E.wav]	Bilabial	<img src="bilabial.svg" width="86" alt="Bilabial">	
+1760110000037	1791732407085	य	jə	[sound:UT_Hindi_U092F.wav]	Palatal	<img src="palatal.svg" width="86" alt="Palatal">	
+1760110000038	1791732407085	र	ɾə	[sound:UT_Hindi_U0930.wav]	Alveolar	<img src="alveolar.svg" width="86" alt="Alveolar">	
+1760110000039	1791732407085	ल	lə	[sound:UT_Hindi_U0932.wav]	Dental / Alveolar	<img src="alveolar.svg" width="86" alt="Dental / Alveolar">	
+1760110000040	1791732407085	व	ʋə	[sound:UT_Hindi_U0935.wav]	Labiodental / Bilabial	<img src="labiodental.svg" width="86" alt="Labiodental / Bilabial">	
+1760110000041	1791732407085	श	ʃə	[sound:UT_Hindi_U0936.wav]	Postalveolar	<img src="postalveolar.svg" width="86" alt="Postalveolar">	
+1760110000042	1791732407085	ष	ʃə	[sound:UT_Hindi_U0937.wav]	Postalveolar (historically retroflex)	<img src="postalveolar.svg" width="86" alt="Postalveolar (historically retroflex)">	
+1760110000043	1791732407085	स	sə	[sound:UT_Hindi_U0938.wav]	Dental / Alveolar	<img src="alveolar.svg" width="86" alt="Dental / Alveolar">	
+1760110000044	1791732407085	ह	ɦə	[sound:UT_Hindi_U0939.wav]	Glottal	<img src="glottal.svg" width="86" alt="Glottal">	
+1760110000045	1791732407086	का	kaː		Vowel Sign		ा → ā<br>replaces inherent ə
+1760110000046	1791732407086	कि	kɪ		Vowel Sign		ि → short i<br>written before, spoken after consonant
+1760110000047	1791732407086	की	kiː		Vowel Sign		ी → long ī<br>replaces inherent ə
+1760110000048	1791732407086	कु	kʊ		Vowel Sign		ु → short u<br>replaces inherent ə
+1760110000049	1791732407086	कू	kuː		Vowel Sign		ू → long ū<br>replaces inherent ə
+1760110000050	1791732407086	कृ	krɪ		Vowel Sign		ृ → ri<br>replaces inherent ə
+1760110000051	1791732407086	के	keː		Vowel Sign		े → eː<br>replaces inherent ə
+1760110000052	1791732407086	कै	kɛː		Vowel Sign		ै → ɛː<br>replaces inherent ə
+1760110000053	1791732407086	को	koː		Vowel Sign		ो → oː<br>replaces inherent ə
+1760110000054	1791732407086	कौ	kɔː		Vowel Sign		ौ → ɔː<br>replaces inherent ə
+1760110000055	1791732407086	क्	k		Halant (no inherent vowel)		् → removes inherent ə
+1760110000056	1791732407086	अं		[sound:UT_Hindi_U0905_U0902.wav]	Anusvara (context-dependent nasal)	<img src="nasalization.svg" width="86" alt="Anusvara (context-dependent nasal)">	ं → nasal consonant or vowel; context-dependent
+1760110000057	1791732407086	अँ	ə̃		Chandrabindu (nasalized vowel)	<img src="nasalization.svg" width="86" alt="Chandrabindu (nasalized vowel)">	ँ → nasalized vowel
+1760110000059	1791732407086	अः	əɦ	[sound:UT_Hindi_U0905_U0903.wav]	Visarga (Sanskrit-derived breath sound)	<img src="glottal.svg" width="86" alt="Visarga (Sanskrit-derived breath sound)">	ः → breath after vowel
+1760110000060	1791732407087	ड़	ɽə		Retroflex	<img src="retroflex.svg" width="86" alt="Retroflex">	
+1760110000061	1791732407087	ढ़	ɽʱə		Retroflex	<img src="retroflex.svg" width="86" alt="Retroflex">	
+1760110000062	1791732407087	फ़	fə		Labiodental	<img src="labiodental.svg" width="86" alt="Labiodental">	
+1760110000063	1791732407087	ज़	zə		Alveolar	<img src="alveolar.svg" width="86" alt="Alveolar">	
+1760110000064	1791732407087	क़	qə		Uvular	<img src="uvular.svg" width="86" alt="Uvular">	
+1760110000065	1791732407087	ख़	xə		Velar / Uvular	<img src="velar.svg" width="86" alt="Velar / Uvular">	
+1760110000066	1791732407087	ग़	ɣə		Velar	<img src="velar.svg" width="86" alt="Velar">	

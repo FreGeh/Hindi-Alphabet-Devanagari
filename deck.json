@@ -1,8 +1,14 @@
 {
-  "name": "Example Deck",
-  "guid_namespace": null,
+  "name": "Hindi Alphabet (Devanagari)",
+  "guid_namespace": "5e2c485d57ab4b9f997e788cb8d80d6b",
+  "deck_id": 1791732407083,
+  "model_id": 1791728562776,
+  "model_name": "Devanagari",
+  "template_name": "Devanagari -> Pronunciation",
   "subdecks": {
-    "Geography": 1,
-    "Recognize": 2
+    "01 Vowels": 1791732407084,
+    "02 Consonants": 1791732407085,
+    "03 Vowel Signs & Marks": 1791732407086,
+    "04 Modified Letters": 1791732407087
   }
 }

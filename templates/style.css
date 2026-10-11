@@ -1,7 +1,47 @@
 .card {
-  font-family: arial;
-  font-size: 20px;
+  font-family: "Noto Sans", Arial, sans-serif;
   text-align: center;
-  color: black;
-  background-color: white;
+  color: #242424;
+  background: #fff;
+  padding: 24px;
+}
+
+.devanagari {
+  font-family: "Noto Sans Devanagari", "Nirmala UI", "Mangal", sans-serif;
+  font-size: 72px;
+  line-height: 1.25;
+}
+
+.ipa {
+  margin-top: 10px;
+  font-family: "Noto Sans", "DejaVu Sans", sans-serif;
+  font-size: 36px;
+}
+
+.sound {
+  margin: 15px 0;
+}
+
+.category-image img {
+  display: block;
+  width: 86px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.category-label {
+  margin-top: 5px;
+  font-size: 13px;
+  color: #888;
+}
+
+.answer-line {
+  border: 0;
+  height: 2px;
+  background: #ccc;
+}
+.explanation {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
 }
